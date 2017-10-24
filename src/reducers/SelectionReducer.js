@@ -1,0 +1,10 @@
+export default (state = null, action) => {
+    switch (action.type) {
+        case 'SELECT_LIBRARY':
+            return action.payload;
+        default:
+            return state;
+    }
+};
+
+// a reducer must always return a value of NOT undefined 
