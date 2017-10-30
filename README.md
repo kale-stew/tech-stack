@@ -6,7 +6,7 @@ A friendly little animated toolbox that defines a handful of libraries and loops
 
 ## What does it look like?
 
-<img src="https://github.com/kale-stew/tech-stack/blob/assets/animations.gif" />
+<img src="https://github.com/kale-stew/tech-stack/blob/master/assets/animations.gif" />
 
 ## What tech is used?
 
